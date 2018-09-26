@@ -13,6 +13,7 @@ int main()
     pt++;
 
     print("hello world");
+    print ("again\n")
  }
  print("\n");
 }
