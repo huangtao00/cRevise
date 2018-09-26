@@ -5,6 +5,7 @@ int main()
 {
  char *pt="注意红字部分。fflush处理的是已经从输入流中取出的数据";
 
+
  while (*pt)
  {
     print("%c",*pt);
@@ -12,8 +13,16 @@ int main()
     usleep(100000);
     pt++;
 
-    print("hello world");
-    print ("again\n")
+
  }
  print("\n");
+     print("hello world");
+    print ("again\n");
+ int fred;
+ char bob;
+ float abc;
+ double tom;
+ bob='c';
+ putchar(bob);
+
 }
