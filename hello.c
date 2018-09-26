@@ -11,6 +11,8 @@ int main()
     fflush(stdout);
     usleep(100000);
     pt++;
+
+    print("hello world");
  }
  print("\n");
 }
