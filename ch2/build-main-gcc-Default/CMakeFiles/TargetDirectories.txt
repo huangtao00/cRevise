@@ -1,0 +1,3 @@
+/home/meyou/cc/ch2/build-main-gcc-Default/CMakeFiles/rebuild_cache.dir
+/home/meyou/cc/ch2/build-main-gcc-Default/CMakeFiles/main.dir
+/home/meyou/cc/ch2/build-main-gcc-Default/CMakeFiles/edit_cache.dir
